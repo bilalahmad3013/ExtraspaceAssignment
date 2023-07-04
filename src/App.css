@@ -1,5 +1,10 @@
+body{
+  padding: 5px;
+  background-color: rgb(197, 186, 186);
+}
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
